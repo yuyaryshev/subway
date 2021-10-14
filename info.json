@@ -1,0 +1,9 @@
+{
+  "name": "subway",
+  "version": "1.0.0",
+  "title": "Subway",
+  "author": "TheLordOdin",
+  "description": "Subway allows you to build train systems undergroud.",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.0"]
+}
