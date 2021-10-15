@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "title": "Subway",
   "author": "TheLordOdin",
-  "description": "Subway allows you to build train systems undergroud.",
+  "description": "Subway allows you to build train systems undergroud. Credits to Factorissimo2 creator MagmaMcFry - couldn't have even started this mod without his work.",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1.0"]
 }
